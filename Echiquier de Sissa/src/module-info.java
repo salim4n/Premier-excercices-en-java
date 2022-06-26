@@ -1,0 +1,2 @@
+module echiquier.de.sissa {
+}
